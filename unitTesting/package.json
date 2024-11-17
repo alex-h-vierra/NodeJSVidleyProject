@@ -1,0 +1,17 @@
+{
+  "name": "unittesting",
+  "version": "1.0.0",
+  "main": "jsonGenerateAuthToken.test.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
